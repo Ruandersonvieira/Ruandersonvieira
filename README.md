@@ -23,7 +23,6 @@ I'm Ruanderson Vieira, I'm a software engineer 👨‍💻 who is passionate abo
   <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/db/mongodb.png">
   <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/db/mysql.png">
   <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/db/sqlite.png">
-  <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/db/sqlite.png">
   <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/db/firebase.png">
   <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/db/dynamodb.png">
 </p>
