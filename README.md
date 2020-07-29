@@ -11,6 +11,20 @@ I'm Ruanderson Vieira, I'm a software engineer 👨‍💻 who is passionate abo
 - 💬 Ask me about: tech, robotcs, memes
 -  ⚡ Languages: JavaScript, TypeScript, C/C++, Python
 
+**Back-end**
+
+
+**Front-end**
+
+**Databases**
+<img height="30" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/postgres.svg">
+
+
+**Cloud Servers**
+
+**Tools**
+
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ruandersonvieira&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruandersonvieira&hide=TeX&layout=compact)
 
