@@ -1,4 +1,4 @@
-# Ruanderson Vieira  
+## Ruanderson Vieira! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ruandersonmira)](https://twitter.com/ruandersonmira) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruandersonvieira/)](https://www.linkedin.com/in/ruandersonvieira/) [![Medium Badge](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ruandersonvieira/)](https://medium.com/@ruandersonvieira/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruanderson@accalia.io)](mailto:ruanderson@accalia.io)
 
@@ -12,6 +12,9 @@ I'm Ruanderson Vieira, I'm a software engineer 👨‍💻 who is passionate abo
 - 😄 Pronouns: he/him
 -  ⚡ Languages: JavaScript, TypeScript, C/C++, Python
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ruandersonvieira&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruandersonvieira&hide=TeX&layout=compact)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ruandersonvieira.ruandersonvieira)
 ---
 ⭐️ From [ruandersonvieira](https://github.com/ruandersonvieira)
