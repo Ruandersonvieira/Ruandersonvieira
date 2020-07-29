@@ -27,9 +27,15 @@ I'm Ruanderson Vieira, I'm a software engineer 👨‍💻 who is passionate abo
   <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/db/dynamodb.png">
 </p>
 
-
 **Cloud Servers**
-
+<p align="left">
+  <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/cloud/aws.png">
+  <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/cloud/heroku.png">
+  <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/cloud/digitalocean.png">
+  <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/cloud/absam.png">
+  <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/cloud/netlify.png">
+  <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/cloud/vercel.png">
+</p
 **Tools**
 
 
