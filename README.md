@@ -9,7 +9,6 @@ I'm Ruanderson Vieira, I'm a software engineer 👨‍💻 who is passionate abo
 - 🔭 I’m currently working on Mobile Apps
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about: tech, robotcs, memes
-- 😄 Pronouns: he/him
 -  ⚡ Languages: JavaScript, TypeScript, C/C++, Python
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ruandersonvieira&count_private=true&show_icons=true)
