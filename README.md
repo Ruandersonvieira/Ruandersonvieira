@@ -33,11 +33,19 @@ I'm Ruanderson Vieira, I'm a software engineer 👨‍💻 who is passionate abo
   <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/cloud/heroku.png">
   <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/cloud/digitalocean.png">
   <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/cloud/absam.png">
-  <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/cloud/netlify.png">
-  <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/cloud/vercel.png">
-</p
-**Tools**
+</p>
 
+**Tools**
+<p align="left">
+  <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/tools/docker.png">
+  <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/tools/travisci.png">
+  <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/tools/visualappcenter.png">
+  <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/tools/awscodebuild.png">
+  <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/tools/elasticbeanstalk.png">
+  <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/tools/awscodepipeline.png">
+  <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/tools/netlify.png">
+  <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/tools/vercel.png">
+</p>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ruandersonvieira&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruandersonvieira&hide=TeX&layout=compact)
