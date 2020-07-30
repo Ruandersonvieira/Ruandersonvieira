@@ -71,8 +71,8 @@ I'm Ruanderson Vieira, I'm a software engineer 👨‍💻 who is passionate abo
   <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/tools/vercel.png">
 </p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ruandersonvieira&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruandersonvieira&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ruandersonvieira&count_private=true&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruandersonvieira&hide=TeX&layout=compact&theme=synthwave)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ruandersonvieira.ruandersonvieira)
 ---
