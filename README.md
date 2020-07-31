@@ -36,7 +36,6 @@ I'm Ruanderson Vieira, I'm a software engineer 👨‍💻 who is passionate abo
   <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/mobile/reactnative.png">
   <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/mobile/ts.png">
   <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/mobile/apollo.png">
-  <img height="40" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/mobile/awsamplify.png">
 </p>
 
 **Databases**
