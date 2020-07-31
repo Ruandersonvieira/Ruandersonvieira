@@ -1,6 +1,4 @@
-## Ruanderson Vieira! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-
- <img src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/banner/banner.png">
+<img src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/banner/banner.png">
 
 I'm Ruanderson Vieira, I'm a software engineer 👨‍💻 who is passionate about mobile and iot. 
 
