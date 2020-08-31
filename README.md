@@ -11,8 +11,6 @@ I'm Ruanderson Vieira, I'm a software engineer 👨‍💻 who is passionate abo
   <img height="30" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/back/express.png">
   <img height="30" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/back/restify.png">
   <img height="30" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/back/sequelize.png">
-  <img height="30" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/back/knex.png">
-  <img height="30" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/back/graphlql.png">
   <img height="30" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/back/mongoose.png">
   <img height="30" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/back/arduino.png">
   <img height="30" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/back/johnnyfive.png">
@@ -41,7 +39,6 @@ I'm Ruanderson Vieira, I'm a software engineer 👨‍💻 who is passionate abo
   <img height="30" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/db/mongodb.png">
   <img height="30" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/db/mysql.png">
   <img height="30" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/db/sqlite.png">
-  <img height="30" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/db/firebase.png">
   <img height="30" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/db/dynamodb.png">
 </p>
 
@@ -56,7 +53,6 @@ I'm Ruanderson Vieira, I'm a software engineer 👨‍💻 who is passionate abo
 **Tools**
 <p align="left">
   <img height="30" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/tools/docker.png">
-  <img height="30" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/tools/travisci.png">
   <img height="30" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/tools/visualappcenter.png">
   <img height="30" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/tools/awscodebuild.png">
   <img height="30" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/tools/elasticbeanstalk.png">
